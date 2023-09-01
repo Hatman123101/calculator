@@ -56,3 +56,9 @@ form input.operator{
     width: 145px;
     height: 75px;
 }
+.operator{
+text-align: center;
+}
+.spaces{
+text-align: center;
+}
