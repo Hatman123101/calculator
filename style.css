@@ -62,3 +62,16 @@ text-align: center;
 .spaces{
 text-align: center;
 }
+@media (max-width: 700px){
+    .container{
+background-color: black;
+
+    }
+
+}
+@media (min-width:700px){
+    .container{
+        background-image: image-set("chiefs-logo.png");
+        background-size: cover;
+    }
+}
